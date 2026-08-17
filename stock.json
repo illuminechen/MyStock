@@ -16,18 +16,18 @@
     },
     {
       "name": "宏達電",
-      "price": "40.8",
+      "price": "40.75",
       "yesterday": "40.5",
-      "changePercent": "0.74%",
-      "profitLoss": "+0.60"
+      "changePercent": "0.62%",
+      "profitLoss": "+0.50"
     },
     {
       "name": "國巨*",
-      "price": "614",
+      "price": "613",
       "yesterday": "622",
-      "changePercent": "-1.29%",
-      "profitLoss": "-3.20"
+      "changePercent": "-1.45%",
+      "profitLoss": "-3.60"
     }
   ],
-  "timestamp": "2026-08-17T03:37:26.202Z"
+  "timestamp": "2026-08-17T03:37:46.610Z"
 }
