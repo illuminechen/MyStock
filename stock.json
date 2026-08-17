@@ -2,17 +2,17 @@
   "data": [
     {
       "name": "凱崴",
-      "price": "51.5",
+      "price": "51.4",
       "yesterday": "51.8",
-      "changePercent": "-0.58%",
-      "profitLoss": "-7.50"
+      "changePercent": "-0.77%",
+      "profitLoss": "-10.00"
     },
     {
       "name": "力成",
-      "price": "278.5",
+      "price": "279",
       "yesterday": "278",
-      "changePercent": "0.18%",
-      "profitLoss": "+1.00"
+      "changePercent": "0.36%",
+      "profitLoss": "+2.00"
     },
     {
       "name": "宏達電",
@@ -23,11 +23,11 @@
     },
     {
       "name": "國巨*",
-      "price": "612",
+      "price": "614",
       "yesterday": "622",
-      "changePercent": "-1.61%",
-      "profitLoss": "-4.00"
+      "changePercent": "-1.29%",
+      "profitLoss": "-3.20"
     }
   ],
-  "timestamp": "2026-08-17T02:45:18.006Z"
+  "timestamp": "2026-08-17T02:45:38.090Z"
 }
