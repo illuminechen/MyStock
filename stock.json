@@ -9,25 +9,25 @@
     },
     {
       "name": "力成",
-      "price": "277.5",
+      "price": "277",
       "yesterday": "278",
-      "changePercent": "-0.18%",
-      "profitLoss": "-1.00"
+      "changePercent": "-0.36%",
+      "profitLoss": "-2.00"
     },
     {
       "name": "宏達電",
-      "price": "40.7",
+      "price": "40.65",
       "yesterday": "40.5",
-      "changePercent": "0.49%",
-      "profitLoss": "+0.40"
+      "changePercent": "0.37%",
+      "profitLoss": "+0.30"
     },
     {
       "name": "國巨*",
-      "price": "611",
+      "price": "612",
       "yesterday": "622",
-      "changePercent": "-1.77%",
-      "profitLoss": "-4.40"
+      "changePercent": "-1.61%",
+      "profitLoss": "-4.00"
     }
   ],
-  "timestamp": "2026-08-17T03:11:52.545Z"
+  "timestamp": "2026-08-17T03:12:14.344Z"
 }
