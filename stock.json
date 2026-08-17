@@ -2,10 +2,10 @@
   "data": [
     {
       "name": "凱崴",
-      "price": "51",
+      "price": "51.1",
       "yesterday": "51.8",
-      "changePercent": "-1.54%",
-      "profitLoss": "-20.00"
+      "changePercent": "-1.35%",
+      "profitLoss": "-17.50"
     },
     {
       "name": "力成",
@@ -23,11 +23,11 @@
     },
     {
       "name": "國巨*",
-      "price": "612",
+      "price": "611",
       "yesterday": "622",
-      "changePercent": "-1.61%",
-      "profitLoss": "-4.00"
+      "changePercent": "-1.77%",
+      "profitLoss": "-4.40"
     }
   ],
-  "timestamp": "2026-08-17T03:04:53.331Z"
+  "timestamp": "2026-08-17T03:05:13.427Z"
 }
