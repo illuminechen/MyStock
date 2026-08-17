@@ -9,10 +9,10 @@
     },
     {
       "name": "力成",
-      "price": "278.5",
+      "price": "278",
       "yesterday": "278",
-      "changePercent": "0.18%",
-      "profitLoss": "+1.00"
+      "changePercent": "0.00%",
+      "profitLoss": "0.00"
     },
     {
       "name": "宏達電",
@@ -29,5 +29,5 @@
       "profitLoss": "-2.80"
     }
   ],
-  "timestamp": "2026-08-17T02:35:29.191Z"
+  "timestamp": "2026-08-17T02:35:50.027Z"
 }
